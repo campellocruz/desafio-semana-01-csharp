@@ -1,0 +1,15 @@
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\bin\Debug\net10.0\Exercício 2 - Cadastro de Produto.exe
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\bin\Debug\net10.0\Exercício 2 - Cadastro de Produto.deps.json
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\bin\Debug\net10.0\Exercício 2 - Cadastro de Produto.runtimeconfig.json
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\bin\Debug\net10.0\Exercício 2 - Cadastro de Produto.dll
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\bin\Debug\net10.0\Exercício 2 - Cadastro de Produto.pdb
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\Exercício 2 - Cadastro de Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\Exercício 2 - Cadastro de Produto.AssemblyInfoInputs.cache
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\Exercício 2 - Cadastro de Produto.AssemblyInfo.cs
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\Exercício 2 - Cadastro de Produto.csproj.CoreCompileInputs.cache
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\Exercício 2 - Cadastro de Produto.sourcelink.json
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\Exercício 2 - Cadastro de Produto.dll
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\refint\Exercício 2 - Cadastro de Produto.dll
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\Exercício 2 - Cadastro de Produto.pdb
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\Exercício 2 - Cadastro de Produto.genruntimeconfig.cache
+C:\Curso\ConsoleProjeto\Exercício 2 - Cadastro de Produto\obj\Debug\net10.0\ref\Exercício 2 - Cadastro de Produto.dll

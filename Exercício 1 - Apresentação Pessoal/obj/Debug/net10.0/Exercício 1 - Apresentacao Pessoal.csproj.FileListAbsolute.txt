@@ -1,0 +1,15 @@
+C:\Curso\ConsoleProjeto\ConsoleApp\bin\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.exe
+C:\Curso\ConsoleProjeto\ConsoleApp\bin\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.deps.json
+C:\Curso\ConsoleProjeto\ConsoleApp\bin\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.runtimeconfig.json
+C:\Curso\ConsoleProjeto\ConsoleApp\bin\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.dll
+C:\Curso\ConsoleProjeto\ConsoleApp\bin\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.pdb
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.AssemblyInfoInputs.cache
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.AssemblyInfo.cs
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.csproj.CoreCompileInputs.cache
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.sourcelink.json
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.dll
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\refint\Exercício 1 - Apresentacao Pessoal.dll
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.pdb
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\Exercício 1 - Apresentacao Pessoal.genruntimeconfig.cache
+C:\Curso\ConsoleProjeto\ConsoleApp\obj\Debug\net10.0\ref\Exercício 1 - Apresentacao Pessoal.dll
