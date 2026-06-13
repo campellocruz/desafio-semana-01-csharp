@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="ConsoleApp/Exercício 1 - Apresentacao Pessoal.csproj" Id="8fb70b8b-25ef-491a-be09-aa68cc79f784" />
+  <Project Path="Desafio Bônus - Calcular Média/Desafio Bônus - Calcular Média.csproj" Id="0b0a8022-1d06-4860-9b8b-7589d1f54f24" />
   <Project Path="Exercício 2 - Cadastro de Produto/Exercício 2 - Cadastro de Produto.csproj" Id="2d64dc8f-36a3-48d4-9ec2-4824799592b5" />
+  <Project Path="Exercício 3 - Calculadora Simples/Exercício 3 - Calculadora Simples.csproj" Id="092408cd-8524-4153-a23f-f21710c6255a" />
+  <Project Path="Exercício 4 - Verificador de Idade/Exercício 4 - Verificador de Idade.csproj" Id="180ef877-daf2-4934-a72b-084e37ae9ceb" />
+  <Project Path="Exercício 5 - Primeira Função/Exercício 5 - Primeira Função.csproj" Id="d5cc9f7e-ccad-4033-9292-b701408491fd" />
 </Solution>

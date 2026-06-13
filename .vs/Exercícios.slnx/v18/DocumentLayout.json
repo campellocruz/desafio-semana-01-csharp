@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Curso\\ConsoleProjeto\\",
+  "WorkspaceRootPath": "C:\\Curso\\Exerc\u00EDcios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D64DC8F-36A3-48D4-9EC2-4824799592B5}|Exerc\u00EDcio 2 - Cadastro de Produto\\Exerc\u00EDcio 2 - Cadastro de Produto.csproj|c:\\curso\\consoleprojeto\\exerc\u00EDcio 2 - cadastro de produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0A8022-1D06-4860-9B8B-7589D1F54F24}|Desafio B\u00F4nus - Calcular M\u00E9dia\\Desafio B\u00F4nus - Calcular M\u00E9dia.csproj|c:\\curso\\exerc\u00EDcios\\desafio b\u00F4nus - calcular m\u00E9dia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0A8022-1D06-4860-9B8B-7589D1F54F24}|Desafio B\u00F4nus - Calcular M\u00E9dia\\Desafio B\u00F4nus - Calcular M\u00E9dia.csproj|solutionrelative:desafio b\u00F4nus - calcular m\u00E9dia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CC9F7E-CCAD-4033-9292-B701408491FD}|Exerc\u00EDcio 5 - Primeira Fun\u00E7\u00E3o\\Exerc\u00EDcio 5 - Primeira Fun\u00E7\u00E3o.csproj|c:\\curso\\exerc\u00EDcios\\exerc\u00EDcio 5 - primeira fun\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CC9F7E-CCAD-4033-9292-B701408491FD}|Exerc\u00EDcio 5 - Primeira Fun\u00E7\u00E3o\\Exerc\u00EDcio 5 - Primeira Fun\u00E7\u00E3o.csproj|solutionrelative:exerc\u00EDcio 5 - primeira fun\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EF877-DAF2-4934-A72B-084E37AE9CEB}|Exerc\u00EDcio 4 - Verificador de Idade\\Exerc\u00EDcio 4 - Verificador de Idade.csproj|c:\\curso\\exerc\u00EDcios\\exerc\u00EDcio 4 - verificador de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180EF877-DAF2-4934-A72B-084E37AE9CEB}|Exerc\u00EDcio 4 - Verificador de Idade\\Exerc\u00EDcio 4 - Verificador de Idade.csproj|solutionrelative:exerc\u00EDcio 4 - verificador de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092408CD-8524-4153-A23F-F21710C6255A}|Exerc\u00EDcio 3 - Calculadora Simples\\Exerc\u00EDcio 3 - Calculadora Simples.csproj|c:\\curso\\exerc\u00EDcios\\exerc\u00EDcio 3 - calculadora simples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092408CD-8524-4153-A23F-F21710C6255A}|Exerc\u00EDcio 3 - Calculadora Simples\\Exerc\u00EDcio 3 - Calculadora Simples.csproj|solutionrelative:exerc\u00EDcio 3 - calculadora simples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D64DC8F-36A3-48D4-9EC2-4824799592B5}|Exerc\u00EDcio 2 - Cadastro de Produto\\Exerc\u00EDcio 2 - Cadastro de Produto.csproj|c:\\curso\\exerc\u00EDcios\\exerc\u00EDcio 2 - cadastro de produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D64DC8F-36A3-48D4-9EC2-4824799592B5}|Exerc\u00EDcio 2 - Cadastro de Produto\\Exerc\u00EDcio 2 - Cadastro de Produto.csproj|solutionrelative:exerc\u00EDcio 2 - cadastro de produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +36,63 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Curso\\ConsoleProjeto\\Exerc\u00EDcio 2 - Cadastro de Produto\\Program.cs",
+              "DocumentMoniker": "C:\\Curso\\Exerc\u00EDcios\\Desafio B\u00F4nus - Calcular M\u00E9dia\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio B\u00F4nus - Calcular M\u00E9dia\\Program.cs",
+              "ToolTip": "C:\\Curso\\Exerc\u00EDcios\\Desafio B\u00F4nus - Calcular M\u00E9dia\\Program.cs*",
+              "RelativeToolTip": "Desafio B\u00F4nus - Calcular M\u00E9dia\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:44:11.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso\\Exerc\u00EDcios\\Exerc\u00EDcio 5 - Primeira Fun\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 5 - Primeira Fun\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Curso\\Exerc\u00EDcios\\Exerc\u00EDcio 5 - Primeira Fun\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 5 - Primeira Fun\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:40:53.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso\\Exerc\u00EDcios\\Exerc\u00EDcio 4 - Verificador de Idade\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 4 - Verificador de Idade\\Program.cs",
+              "ToolTip": "C:\\Curso\\Exerc\u00EDcios\\Exerc\u00EDcio 4 - Verificador de Idade\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 4 - Verificador de Idade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:36:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso\\Exerc\u00EDcios\\Exerc\u00EDcio 3 - Calculadora Simples\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 3 - Calculadora Simples\\Program.cs",
+              "ToolTip": "C:\\Curso\\Exerc\u00EDcios\\Exerc\u00EDcio 3 - Calculadora Simples\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 3 - Calculadora Simples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:31:17.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso\\Exerc\u00EDcios\\Exerc\u00EDcio 2 - Cadastro de Produto\\Program.cs",
               "RelativeDocumentMoniker": "Exerc\u00EDcio 2 - Cadastro de Produto\\Program.cs",
-              "ToolTip": "C:\\Curso\\ConsoleProjeto\\Exerc\u00EDcio 2 - Cadastro de Produto\\Program.cs",
+              "ToolTip": "C:\\Curso\\Exerc\u00EDcios\\Exerc\u00EDcio 2 - Cadastro de Produto\\Program.cs",
               "RelativeToolTip": "Exerc\u00EDcio 2 - Cadastro de Produto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-09T23:05:43.671Z",
               "EditorCaption": ""

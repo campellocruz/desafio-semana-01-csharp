@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercício 2 - Cadastro de Produto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+363c3ce240442ff950925999b9113786e07b7c38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21cf62781dac149bf67b0f382d196f9d2e736f94")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercício 2 - Cadastro de Produto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercício 2 - Cadastro de Produto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
